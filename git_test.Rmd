@@ -7,6 +7,7 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library(praise)
 ```
 
 Hi partner!
@@ -14,3 +15,10 @@ Hi partner!
 YAY! Finally got it to work 
 
 Haha this is challenging!
+
+Technology is HARD haha I think we've got the hang of it now though!
+
+```{r}
+praise()
+```
+
