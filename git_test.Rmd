@@ -10,3 +10,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 Hi partner!
+
+YAY! Finally got it to work 
+
